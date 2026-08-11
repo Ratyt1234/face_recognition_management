@@ -1,4 +1,1 @@
 Flask
-numpy
-opencv-python-headless
-face-recognition
